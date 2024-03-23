@@ -1,6 +1,6 @@
 # Introduction
 
-Site onde usar varias tecnicas de CSS Flexbox.
+Site onde uso várias tecnicas de CSS Flexbox.
 
 ## Preview
 
