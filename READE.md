@@ -4,7 +4,7 @@ Site onde usar varias tecnicas de CSS Flexbox.
 
 ## Preview
 
-<img src="https://github.com/DouglasHF94/Bikecraft/blob/master/fotobikecraft.png" height="500"/>
+<img src="https://github.com/DouglasHF94/flexbox-curso/blob/master/printe-site-flex.png" height="500"/>
 
 ## Live link:
 
